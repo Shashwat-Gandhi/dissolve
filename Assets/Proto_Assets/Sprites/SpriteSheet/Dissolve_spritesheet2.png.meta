@@ -1,0 +1,1203 @@
+fileFormatVersion: 2
+guid: eb6f5291e01810f4193851d9f7217d83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4703994498677591670
+    second: Dissolve_spritesheet2_0
+  - first:
+      213: 8110994299977843404
+    second: Dissolve_spritesheet2_1
+  - first:
+      213: -199919176379034320
+    second: Dissolve_spritesheet2_2
+  - first:
+      213: 4788886391578741556
+    second: Dissolve_spritesheet2_3
+  - first:
+      213: 6336828493373532939
+    second: Dissolve_spritesheet2_4
+  - first:
+      213: 3153750970231401377
+    second: Dissolve_spritesheet2_5
+  - first:
+      213: -7485347167625799075
+    second: Dissolve_spritesheet2_6
+  - first:
+      213: 7466993372766638844
+    second: Dissolve_spritesheet2_7
+  - first:
+      213: 8173909371401258164
+    second: Dissolve_spritesheet2_8
+  - first:
+      213: -5988142383355563505
+    second: Dissolve_spritesheet2_9
+  - first:
+      213: -6516708384189354333
+    second: Dissolve_spritesheet2_10
+  - first:
+      213: 5032084260412472477
+    second: Dissolve_spritesheet2_11
+  - first:
+      213: -7562837342688965088
+    second: Dissolve_spritesheet2_12
+  - first:
+      213: 6911839828365876490
+    second: Dissolve_spritesheet2_13
+  - first:
+      213: -133059697313959874
+    second: Dissolve_spritesheet2_14
+  - first:
+      213: -2886657043305298856
+    second: Dissolve_spritesheet2_15
+  - first:
+      213: 291831040447589586
+    second: Dissolve_spritesheet2_16
+  - first:
+      213: 5059623375417904135
+    second: Dissolve_spritesheet2_17
+  - first:
+      213: 1134820925736484500
+    second: Dissolve_spritesheet2_18
+  - first:
+      213: 4835321231464449488
+    second: Dissolve_spritesheet2_19
+  - first:
+      213: 7376741132183323748
+    second: Dissolve_spritesheet2_20
+  - first:
+      213: -7331537034264070177
+    second: Dissolve_spritesheet2_21
+  - first:
+      213: -4218509879723229188
+    second: Dissolve_spritesheet2_22
+  - first:
+      213: -3051695952717242077
+    second: Dissolve_spritesheet2_23
+  - first:
+      213: 4142775046514876538
+    second: Dissolve_spritesheet2_24
+  - first:
+      213: -5556403381648431049
+    second: Dissolve_spritesheet2_25
+  - first:
+      213: 4136520786767254147
+    second: Dissolve_spritesheet2_26
+  - first:
+      213: 3388645404309437285
+    second: Dissolve_spritesheet2_27
+  - first:
+      213: -5441063023304424689
+    second: Dissolve_spritesheet2_28
+  - first:
+      213: -1062479658274520668
+    second: Dissolve_spritesheet2_29
+  - first:
+      213: -8165013628808777264
+    second: Dissolve_spritesheet2_30
+  - first:
+      213: 5618331306767418448
+    second: Dissolve_spritesheet2_31
+  - first:
+      213: -8194084446441905129
+    second: Dissolve_spritesheet2_32
+  - first:
+      213: 7482584200154896042
+    second: Dissolve_spritesheet2_33
+  - first:
+      213: 2364593947467630275
+    second: Dissolve_spritesheet2_34
+  - first:
+      213: 94542633168535131
+    second: Dissolve_spritesheet2_35
+  - first:
+      213: -8840136254121203049
+    second: Dissolve_spritesheet2_36
+  - first:
+      213: 1632699957138538137
+    second: Dissolve_spritesheet2_37
+  - first:
+      213: 380987528739359559
+    second: Dissolve_spritesheet2_38
+  - first:
+      213: 33506010404619143
+    second: Dissolve_spritesheet2_39
+  - first:
+      213: 1733030239655603252
+    second: Dissolve_spritesheet2_40
+  - first:
+      213: 2459649849130018096
+    second: Dissolve_spritesheet2_41
+  - first:
+      213: -3579730059953431964
+    second: Dissolve_spritesheet2_42
+  - first:
+      213: -4893481479814337922
+    second: Dissolve_spritesheet2_43
+  - first:
+      213: 2163127984763274581
+    second: Dissolve_spritesheet2_44
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 978
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46362d4192d7314a9c05681a3fd0e63
+      internalID: -4703994498677591670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 970
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224b27223a964eb4abf625a5ca463c11
+      internalID: 8110994299977843404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 977
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f31f882b7b6d674f9f1d3fe371efb48
+      internalID: -199919176379034320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 981
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f684834e01061e846a2387858b3ae448
+      internalID: 4788886391578741556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 969
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b824ffb9d36f384c99eb5a38bf85a85
+      internalID: 6336828493373532939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17de9f5f3adb9b149b09b64525a38019
+      internalID: 3153750970231401377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df92acdc6f97a884d994a9b84be6bba9
+      internalID: -7485347167625799075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_7
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e0fd314223edf48968df67dfddaa33
+      internalID: 7466993372766638844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_8
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a47355d15efe44458e5626b8e885a5e
+      internalID: 8173909371401258164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_9
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12966cee05410a44197f3539ab83a656
+      internalID: -5988142383355563505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_10
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461c417bca5184b4fa6cc8c2a41911ff
+      internalID: -6516708384189354333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_11
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5118b799f557744aa45d46c48b8ea8e
+      internalID: 5032084260412472477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_12
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d92415ed5db9245b91a00a21390e3d
+      internalID: -7562837342688965088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_13
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05845ed0f80369642bdbee4ef992b329
+      internalID: 6911839828365876490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_14
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f5456ab3ff2c4ba7afae5465ecc15
+      internalID: -133059697313959874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_15
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de34d9c9ad652f4f91c7431ae42126c
+      internalID: -2886657043305298856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_16
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce3986c6dc74d342a04b75bbecaec0e
+      internalID: 291831040447589586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_17
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff118109893bf044f97cf0a40f6c35a4
+      internalID: 5059623375417904135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_18
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c8bdc91dd3ecd4ebbae0d86c6a6334
+      internalID: 1134820925736484500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_19
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2327784fdeb66f64097148bd8f034dac
+      internalID: 4835321231464449488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_20
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5363b4991a7661e4f9779ef6a7643746
+      internalID: 7376741132183323748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_21
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d791458f633584aa59295f95410b44
+      internalID: -7331537034264070177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_22
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c5ad24e14ae0d449c9572b93529429
+      internalID: -4218509879723229188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_23
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7533c935cc5208f4a9b0beb30187c09c
+      internalID: -3051695952717242077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_24
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 951
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c97ed1b96a81147ab92a3feb08cf96
+      internalID: 4142775046514876538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 862
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24357d976dd10434d9019d584bdda566
+      internalID: -5556403381648431049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_26
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 862
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c527dfdfb36d5d14dad67892f35f8f96
+      internalID: 4136520786767254147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_27
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 862
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab647affbc84e0047ab599849bbe3294
+      internalID: 3388645404309437285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 862
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e962e93a53a58d44bc28658fd3b417f
+      internalID: -5441063023304424689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 862
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72af93cfe612f83409db3c782c1a83bf
+      internalID: -1062479658274520668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_30
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 862
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c0ee7e72407ca43913939ea1d0bb3b
+      internalID: -8165013628808777264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_31
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 862
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1935cba2d73e9534ea57b6b6a83f59b9
+      internalID: 5618331306767418448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_32
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 862
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485bef6e504e7c14aa65a98442263067
+      internalID: -8194084446441905129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_33
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 862
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9ac3e7609543a47964b804648cdbc5
+      internalID: 7482584200154896042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_34
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 862
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a410f34b73de0c341bf38eea6f523a0e
+      internalID: 2364593947467630275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_35
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 862
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d50a49b02237e43a8c54998186d0a8
+      internalID: 94542633168535131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_36
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 862
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da0d72ba3cd18d4bbf7f013a12d2aa7
+      internalID: -8840136254121203049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_37
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 862
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6a47b5ec1cc2346842b9d85c20b8ff
+      internalID: 1632699957138538137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_38
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 862
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0412e5313b706ed4f9bcd28c7b5f12fa
+      internalID: 380987528739359559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_39
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 862
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d81342dd8ccb6498ece3163a51dda1
+      internalID: 33506010404619143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_40
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 862
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3fd4c42f648ba468347b786f5110c1
+      internalID: 1733030239655603252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_41
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 862
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d54f8a5baecdce43910a8beb3c1db15
+      internalID: 2459649849130018096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_42
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 862
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3b39810a00b7b40a8ec786341b21fc
+      internalID: -3579730059953431964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_43
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 862
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddbf52d8af9ca845b5f9b4a3066c635
+      internalID: -4893481479814337922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dissolve_spritesheet2_44
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 861
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb7748d7d438f346a7ec6a4b7e581be
+      internalID: 2163127984763274581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9d283f99def7ace4084734dd8bf665e6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
